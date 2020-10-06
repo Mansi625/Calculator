@@ -7,6 +7,7 @@ Define instance method
 Use the Ruby Math class to call a method provided by Ruby
 
 Introduction
+
 Calculators can be very useful devices in day-to-day activities. You've likely used a calculator to add up bills for this month or calculate the tip at a restaurant. We're going to take our arithmetic knowledge and put it to the test by writing functions that will do basic math calculations for us, just like we can see in IRB.
 
 Use Math Operations to Build a Calculator
